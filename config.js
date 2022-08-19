@@ -53,7 +53,7 @@ global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '62895394988123' //Nomor Bot mu
 global.nomorown = '6287824899711' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
+global.namebot = 'izumi-MD' //Nama bot mu
 global.nameown = 'Leo' //Nama mu
 
 
